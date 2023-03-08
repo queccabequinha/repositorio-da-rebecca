@@ -1,0 +1,13 @@
+<head>
+<title> Dados do estudante </title>
+</head>
+
+<body>
+nome:
+e-mail:
+prontuário:
+endereço:
+ano que terminou o fundamental:
+idade:
+nome(s) do responsável(eis):
+</body>
